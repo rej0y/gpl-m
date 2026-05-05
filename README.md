@@ -4,478 +4,398 @@ Version 1.0
 
 ## Preamble
 
-The General Public License for Minecraft is a community license for Minecraft builds, farms, machines, systems, and other block-based works.
+The General Public License for Minecraft, or **GPL-M**, is a license for Minecraft projects created in the spirit of free software, open infrastructure, and mildly questionable block-based engineering.
 
-Its purpose is to preserve the freedom of players to use, study, copy, modify, migrate, improve, and share Minecraft projects inside the Minecraft world.
+Minecraft players build farms, trading halls, redstone machines, storage systems, transport networks, bases, tutorials, and other useful things. These projects are often improved by many players over time. GPL-M exists to make sure those improvements remain free for the community to use, study, copy, modify, migrate, and share.
 
-Minecraft community projects are often made from blocks, redstone, villagers, farms, storage systems, signs, minecarts, hope, and one hidden hopper that everyone is afraid to touch. When a project is shared with the community, this License helps ensure that future players receive the same practical freedoms.
+This License is inspired by the GNU General Public License, but translated into Minecraft terms by people who have probably spent too much time moving villagers.
 
-This License is inspired by the structure and spirit of the GNU General Public License, especially the idea of copyleft:
+GPL-M is not legal advice. It is a community license, a server agreement, and a ceremonial document with more practical value than a written contract with a wandering trader.
 
-> If you received the project with freedom, pass it on with freedom.
-
-This is not the GNU GPL, not an official legal instrument, and not legal advice. It is a Minecraft community license written for clarity, consistency, fun, and the prevention of unnecessary server drama.
-
-## 0. Definitions
+## 1. Definitions
 
 For the purposes of this License:
 
-**Project** means any Minecraft build, farm, machine, structure, redstone contraption, villager system, storage system, tutorial area, schematic-like in-world layout, map area, written guide, transportation system, public utility, or other Minecraft-related creation released under this License.
+**Project** means any Minecraft build, system, farm, machine, tutorial, layout, design, infrastructure, schematic, map area, or other creation released under GPL-M.
 
-**Covered Project** means either the original Project or any work based on it.
+**Original Project** means the first version of the Project released under this License.
 
-**User** means any player, builder, visitor, contributor, maintainer, administrator, moderator, spectator, or other person who uses, studies, copies, modifies, migrates, improves, or shares a Covered Project.
+**User** means any player, builder, visitor, contributor, admin, moderator, spectator, or person standing suspiciously close to the redstone.
 
-**Use** means to access, operate, enter, inspect, repair, maintain, trade with, learn from, or otherwise receive the ordinary benefit of a Covered Project.
+**Maintainer** means a player who repairs, improves, documents, protects, or otherwise cares for the Project, whether officially appointed or emotionally burdened.
 
-**Built Form** means the Project as it exists in the Minecraft world.
+**Modification** means any change to the Project, including repair, expansion, decoration, optimization, relocation, automation, redesign, simplification, complication, or cursed improvement.
 
-**Source Form** means the in-world form of the Project and any in-game documentation reasonably needed to understand, copy, repair, maintain, or modify it.
+**Derivative Project** means any project based on the Project, copied from the Project, modified from the Project, migrated from the Project, or obviously inspired by the Project in a way that makes nearby players say, “wait, isn’t that just the same thing?”
 
-Source Form may include:
+**Source Form** means the information reasonably needed for another player to understand, copy, repair, modify, or rebuild the Project.
 
-- The build itself
-- Visible redstone
-- Labeled components
-- Signs
-- Hanging signs
-- Books and quills
-- Written books
-- Lecterns
-- Item frames
-- Map diagrams
-- Named items
-- Labeled chests, barrels, or shulker boxes
-- In-game coordinate markers
-- Color coding
-- Example modules
-- Tutorial rooms
-- Maintenance tunnels
-- Any other in-world explanation reasonably sufficient for a player to study, copy, repair, or modify the Project
+For Minecraft projects, Source Form may include:
 
-**External Documentation** means information outside the Minecraft world, such as screenshots, videos, websites, Discord posts, downloadable schematics, or world downloads. External Documentation may be helpful, but it is not required by this License unless the server community separately chooses to use it.
+- Coordinates
+- Screenshots
+- Schematics
+- World downloads
+- Block palettes
+- Layer diagrams
+- Redstone explanations
+- Villager job lists
+- Farm mechanics
+- Tutorial signs
+- Written instructions
+- Any other documentation that prevents future players from crying into a shulker box
 
-**Modification** means any repair, expansion, reduction, relocation, redesign, decoration, optimization, automation, adaptation, fork, remix, rebuild, or other change made to a Covered Project.
+**Object Form** means the usable in-game version of the Project, such as the completed build, farm, machine, trading hall, or infrastructure.
 
-**Derivative Project** means any Minecraft project based on, copied from, modified from, migrated from, adapted from, or substantially derived from a Covered Project.
+**Output** means items, resources, mobs, trades, services, knowledge, or other benefits produced, obtained, organized, transported, or made easier by the Project.
 
-**Convey** means to share, publish, distribute, copy to another location, migrate to another world or server, present as a public build, open for community use, or otherwise make a Covered Project available to another User.
+**Covered Work** means the Project, any Modification, and any Derivative Project.
 
-**Essential Function** means the main useful purpose of a Covered Project. For example, the Essential Function of a trading hall is access to trades; the Essential Function of an iron farm is access to iron production; the Essential Function of a storage system is access to storage and retrieval, ideally without opening 47 unlabeled chests.
+**Server Value** means any item, resource, currency, permission, rank, access token, or benefit that players on the server reasonably treat as valuable.
 
-**In-Game Toll** means a required payment, trade, fee, rent, subscription, item exchange, server-currency charge, required donation, required membership, deposit, or similar requirement imposed before a User may Use a Covered Project or receive its Essential Function.
+**Access Restriction** means a rule, barrier, payment requirement, private claim, exclusive shop, required membership, secret gate, or other condition that prevents ordinary players from exercising the freedoms granted by this License.
 
-**Valuable Server Consideration** means any Minecraft item, server currency, service, privilege, access right, or other in-game benefit that the server community reasonably treats as valuable. This includes anything that makes players suddenly become economists in chat.
+## 2. The Four Essential Freedoms
 
-**Maintenance Rule** means a reasonable rule intended to preserve the function, safety, fairness, or stability of a Covered Project without removing the freedoms granted by this License.
+Every User receives the following freedoms:
 
-## 1. Basic Freedoms
+### Freedom 0: Use
 
-Each User is granted the freedom to:
+You may use the Project for any ordinary Minecraft purpose.
 
-1. Use the Project.
-2. Study how the Project works.
-3. Copy the Project.
-4. Modify the Project.
-5. Migrate the Project to another location, world, server, dimension, or suspicious underground facility.
-6. Improve the Project.
-7. Convey the Project.
-8. Convey modified versions of the Project.
+You may stand in it, walk through it, trade with it, repair it, farm with it, learn from it, admire it, complain about it, and say “I would have built this differently.”
 
-These freedoms apply to the original Project and to Derivative Projects.
+### Freedom 1: Study
 
-In simple terms:
+You may study how the Project works.
 
-Use it.  
-Study it.  
-Copy it.  
-Change it.  
-Move it.  
-Improve it.  
-Share it.  
+You may inspect the layout, read the signs, examine the redstone, observe the villagers, count the hoppers, question the water streams, and discover exactly where someone made a strange design decision at 3:00 AM.
 
-And give other players the same freedoms, because freedom is not a limited chest item.
+### Freedom 2: Modify
 
-## 2. In-World Source Form
+You may modify the Project.
 
-When a Covered Project is Conveyed, copied, migrated, or substantially modified, the Source Form must be available inside the Minecraft world in a reasonable way.
+You may repair it, improve it, expand it, decorate it, optimize it, simplify it, move it, rebuild it, or make it slightly worse while claiming it is “temporary.”
 
-The Source Form does not need to be perfect, formal, cinematic, or narrated by a villager with dramatic lighting. It should be sufficient for a reasonably experienced Minecraft player to understand, copy, repair, or modify the Project using in-game information.
+### Freedom 3: Share
 
-For a simple Project, the build itself plus a few signs may be enough.
+You may copy, migrate, redistribute, explain, document, or share the Project, including modified versions of it.
 
-For a complex Project, in-world documentation may require:
+You may build another one elsewhere, make a tutorial, share a schematic, move it to a new base, or reproduce it on another server, provided that you preserve the same freedoms for others.
 
-- A written book
-- A tutorial room
-- Labels for inputs and outputs
-- Signs explaining controls
-- Marked maintenance access
-- Color-coded circuits
-- Example modules
-- In-game coordinate markers
-- Notes explaining hidden parts
+## 3. Copyleft Requirement
 
-If important parts of the Project are hidden, such as buried redstone, item filters, villager cells, water streams, collection systems, mob chambers, timing circuits, portal mechanics, or other functional components quietly waiting to break, those parts should be documented well enough for other Users to exercise the freedoms granted by this License.
+GPL-M is a copyleft license.
 
-A sign saying:
+This means:
 
-> redstone somewhere below good luck
+If you receive a GPL-M Project and create a Covered Work from it, that Covered Work must also be licensed under GPL-M.
 
-is funny, but usually not sufficient.
+You may not take a GPL-M Project, modify it, and then make your version private, exclusive, proprietary, restricted, or governed by rules that remove the freedoms granted here.
 
-A sign saying:
+In simple words:
 
-> item filter below; do not remove the 41 renamed sticks
+You got the freedom.  
+You pass on the freedom.  
+That is the deal.
 
-is much better.
+## 4. Source Form Requirement
 
-## 3. Verbatim Copies
+If you share, publish, migrate, or provide access to a Covered Work, you must make its Source Form reasonably available.
 
-You may Convey exact copies of a Covered Project, provided that you:
+You do not need to produce a doctoral dissertation on hopper alignment. However, you must provide enough information for another player to understand, copy, repair, or modify the work.
 
-1. Keep this License with the Project or provide a reasonable in-world reference to it.
-2. Preserve reasonable attribution to the original creator.
-3. Preserve or provide the Source Form.
-4. Do not impose additional restrictions inconsistent with this License.
-5. Do not place the Essential Function behind an In-Game Toll.
+Acceptable Source Form may include:
 
-You may copy the Project block-for-block.
+- A schematic
+- A world download
+- A clear tutorial
+- A signboard explanation
+- A labeled build
+- A Discord post
+- A server wiki page
+- A map with coordinates
+- Screenshots with useful notes
+- A book-and-quill manual
+- Any other format that is understandable to a reasonably determined Minecraft player
 
-You may not copy the Project block-for-block and then claim the blocks became proprietary during transport.
+The following are not considered adequate Source Form:
 
-## 4. Modified Versions
+- “Just look at it”
+- “Ask me later”
+- “It’s obvious”
+- “I forgot”
+- “The villagers know”
+- A single screenshot taken at night in the rain
+- Redstone buried under 400 blocks with no labels
+- Documentation that only makes sense to the person who built it
 
-You may Convey a modified version or Derivative Project, provided that:
+## 5. No Additional Restrictions
 
-1. The modified version or Derivative Project is licensed as a whole under GPL-M.
-2. You clearly indicate, in a reasonable in-world way, that changes were made.
-3. You preserve reasonable attribution to prior creators.
-4. You provide or update the Source Form for the modified version.
-5. You do not impose additional restrictions inconsistent with this License.
-6. You do not place the Essential Function behind an In-Game Toll.
+You may not impose additional restrictions that prevent other players from exercising the freedoms granted by GPL-M.
 
-A reasonable attribution may look like:
+You may not say:
 
-> Based on the original design by rejoyy. Modified by [your name].
+- “You may use this, but not copy it.”
+- “You may copy this, but not modify it.”
+- “You may modify this, but not share your version.”
+- “You may study this, but not rebuild it.”
+- “You may use this only if you join my group.”
+- “You may access this only through my private shop.”
+- “You may improve this, but I own your improvements.”
+- “This is GPL-M, except the useful part is off-limits.”
 
-You may add your own credit for your own changes.
+A Covered Work must remain free to use, study, modify, and share.
 
-You may proudly say:
+## 6. Access and Essential Use
 
-> I improved the storage system.
-
-You should not say:
-
-> I alone invented the concept of chests.
-
-## 5. Copyleft
-
-Any Covered Project that you Convey must remain under this License.
-
-You may not relicense a Covered Project under terms that reduce the freedoms granted by GPL-M.
-
-You may not add conditions that prevent other Users from using, studying, copying, modifying, migrating, improving, or sharing the Covered Project under this License.
-
-The basic idea is:
-
-If you received the Project with these freedoms, pass on the same freedoms when you share it.
-
-Or, in shorter server-law language:
-
-GPL-M in, GPL-M out.
-
-## 6. No Additional Restrictions
-
-You may not impose further restrictions on the rights granted by this License.
-
-For example, you may not require that other Users:
-
-- May use the Project but not copy it
-- May copy the Project but not modify it
-- May modify the Project but not share it
-- May share the Project only with special permission
-- Must give ownership of their modifications to another player
-- Must access the Project only through a restricted shop or controlled service
-- Must pay an In-Game Toll to receive the Essential Function
-
-However, reasonable Maintenance Rules are allowed.
-
-Examples of acceptable Maintenance Rules include:
-
-- Close doors
-- Replant crops
-- Do not break redstone
-- Do not kill villagers
-- Replace borrowed materials
-- Keep paths clear
-- Label chests
-- Repair damage you caused
-- Follow posted instructions
-- Temporarily avoid an area during repairs
-- Do not press buttons labeled “emergency” unless there is, in fact, an emergency
-- Do not release the villagers “because they looked sad” without understanding the trading hall
-
-Maintenance Rules are valid when they protect the Project without removing the freedoms granted by this License.
-
-The difference is simple:
-
-A Maintenance Rule says:
-
-> Please do not break the farm.
-
-An additional restriction says:
-
-> You may not copy the farm.
-
-One preserves the community project.  
-The other puts a tiny crown on a hopper and calls it ownership.
-
-## 7. In-Game Toll Restriction
-
-A Covered Project must remain practically usable without an In-Game Toll.
-
-You may not require Valuable Server Consideration before a User may Use the Project, study it, copy it, modify it, migrate it, or receive its Essential Function.
-
-This rule applies regardless of whether the requirement is described as:
-
-- A price
-- A fee
-- A donation
-- A subscription
-- Rent
-- A contribution
-- A service charge
-- A membership
-- A required tip
-- A deposit
-- Priority access
-- Builder appreciation
-- Villager handling fee
-- “Not mandatory, but actually mandatory”
-
-Optional donations, voluntary contributions, or shared maintenance supplies are allowed, provided they are genuinely optional and do not affect practical access to the Project or its Essential Function.
-
-A donation is optional when the answer to:
-
-> Can I still use it if I do not donate?
-
-is yes.
-
-A donation is not optional when the answer is:
-
-> yes, but only through the sadness entrance.
-
-This section is intended to keep shared Minecraft infrastructure accessible to the community. It is not intended to prevent fair maintenance, cooperation, restocking, repair, or ordinary server rules.
-
-## 8. Generated Output
-
-This License does not claim ownership over ordinary items produced through normal gameplay.
-
-Resources, items, trades, blocks, experience, mobs, or other outputs produced by a Covered Project may be used according to the server’s normal rules.
-
-However, Generated Output may not be used as a reason to restrict the Covered Project itself or its Essential Function in a way that conflicts with this License.
+The practical purpose of a GPL-M Project must remain available under GPL-M.
 
 For example:
 
-- A player may use items produced by a farm.
-- A player may use trades provided by a trading hall.
-- A maintainer may request help restocking or repairing supplies.
-- A community may agree on fair usage rules.
-- A player may not convert access to the Project’s Essential Function into a required payment system.
-- A player may not copy a GPL-M Project and distribute the copy under more restrictive terms.
+- A farm must remain usable as a farm.
+- A trading hall must remain usable as a trading hall.
+- A storage system must remain usable as a storage system.
+- A transportation network must remain usable as transportation.
+- A tutorial must remain usable as a tutorial.
+- A redstone machine must remain inspectable by someone brave enough to inspect redstone.
 
-The Project may produce value.  
-The freedom to use and share the Project should remain available.
+You may not technically “share” a project while blocking its actual useful purpose behind an Access Restriction.
 
-The iron belongs to gameplay.  
-The freedom belongs to everyone.
+A build that is free to look at but impossible to use is not meaningfully free. That is a museum exhibit with extra steps.
+
+## 7. Server Value and Access Restrictions
+
+You may not require Server Value in exchange for the essential freedoms granted by this License.
+
+This means you may not require payment, trade, rent, required donations, required membership, required shop purchases, exclusive permissions, or similar conditions before players may use, study, copy, modify, migrate, or share a Covered Work.
+
+This includes payment in valuable in-game items, server currency, ranks, claims, favors, or other benefits that function like currency.
+
+Optional donations are allowed, provided they are truly optional.
+
+A donation is optional only if players who do not donate still receive the same practical GPL-M freedoms.
+
+If the “optional” donation is required in practice, it is not optional. It is just wearing a fake mustache.
+
+## 8. Acceptable Community Rules
+
+GPL-M does not prevent reasonable server rules.
+
+You may still require users to:
+
+- Close doors
+- Replant crops
+- Replace broken blocks
+- Follow posted instructions
+- Avoid killing villagers
+- Avoid breaking redstone
+- Avoid stealing maintenance supplies
+- Keep the area spawn-proofed
+- Respect claims and build boundaries
+- Avoid causing lag
+- Repair damage they caused
+- Stop pressing the button labeled “do not press”
+
+These rules are allowed because they protect the Project rather than restrict the freedoms of the License.
+
+Reasonable maintenance rules are fine. Fake maintenance rules used to block access are not.
 
 ## 9. Attribution
 
-You must preserve reasonable attribution to the original creator and significant contributors inside the Minecraft world.
+You must preserve reasonable credit to the original creator or maintainers of the Project.
 
 Attribution may be provided through:
 
 - Signs
-- Hanging signs
 - Books
 - Lecterns
+- Discord posts
+- Server wiki pages
+- README files
 - Map labels
-- Named items
-- Display areas
-- In-game notice boards
-- Other visible and reasonable in-world methods
+- Build plaques
+- Any other visible and reasonable method
 
-Attribution may be moved, restyled, shortened, translated, or reformatted as needed, provided that it remains reasonably visible and understandable in-game.
+You may move or rewrite attribution notices for clarity, decoration, safety, or because the old sign was ugly.
 
-Attribution does not need to be a giant monument.
+You may not remove attribution entirely or claim that you created the Original Project unless you actually did, inherited it through ancient server law, or can produce convincing testimony from at least three chickens.
 
-It also should not be hidden behind a lava parkour course unless the entire server has agreed to become theatrical.
+## 10. Modifications Must Be Marked
 
-## 10. Contributions
+If you distribute or publicly maintain a modified version of a GPL-M Project, you should clearly identify that it has been modified.
 
-Contributions to a GPL-M Project are licensed under GPL-M unless clearly stated otherwise before they are incorporated.
+A simple note is enough:
 
-A contribution may include:
+> Based on rejoyy's original trading hall. Modified by Alex: added better labels, safer curing area, and less cursed minecart handling.
+
+You do not need to document every block placement unless you enjoy suffering.
+
+However, major changes should be described well enough that future maintainers know who to thank or blame.
+
+## 11. Contributions
+
+Contributions to a GPL-M Project are also licensed under GPL-M unless clearly agreed otherwise before the contribution is added.
+
+Contributions may include:
 
 - Building
 - Repairing
 - Expanding
-- Decorating
+- Redecorating
 - Optimizing
-- Migrating
-- Spawn-proofing
+- Documenting
 - Restocking
+- Labeling
+- Spawn-proofing
 - Debugging redstone
-- Writing instructions
 - Replacing villagers
-- Improving safety
-- Improving documentation
-- Making the build less cursed
-- Making the build more cursed, but with comments
+- Improving tutorials
+- Making the stairs less annoying
+- Fixing something and saying nothing because heroes still exist
 
-By contributing to a GPL-M Project, you allow your contribution to be used, studied, copied, modified, migrated, improved, and conveyed under this License.
+By contributing to a GPL-M Project, you agree that other players may use, study, copy, modify, migrate, and share your contribution under GPL-M.
 
-If you do not want a contribution to be GPL-M, it should not be incorporated into a GPL-M Project.
+## 12. Output of the Project
 
-Please clarify this before placing 900 blocks and saying:
+Output produced by the Project is not automatically a Covered Work merely because it came from the Project.
 
-> actually this part is private.
+For example:
 
-## 11. Compatibility with Server Rules
+- Iron from an iron farm is not itself a GPL-M project.
+- Books from a trading hall are not themselves a license document.
+- Crops from a farm are not required to include attribution.
+- Items sorted by a storage system do not become legally haunted.
 
-This License does not override general server rules about griefing, stealing, land claims, lag, moderation, PvP, safety, restricted areas, or community conduct.
+However, Output may not be used as a trick to restrict the Project itself.
 
-Server administrators may enforce rules needed for safety, performance, fairness, and stability.
+You may use the Output.  
+You may not use control of the Output to remove the freedoms attached to the Project.
 
-However, server rules should not be used to remove the freedoms granted by this License from a Covered Project.
+The machine remains free, even if the potatoes are just potatoes.
 
-A rule such as:
+## 13. Migration
 
-> Do not break the redstone.
+You may migrate a GPL-M Project to another base, district, server, world, realm, dimension, or suspicious underground facility.
 
-is compatible with GPL-M.
+A migrated version must:
 
-A rule such as:
+1. Remain under GPL-M.
+2. Preserve reasonable attribution.
+3. Provide reasonable Source Form.
+4. Preserve the four essential freedoms.
+5. Avoid additional restrictions.
 
-> You may not copy this GPL-M design.
+Migration is encouraged when the original location becomes unsafe, inconvenient, ugly, laggy, overrun with mobs, claimed by sculk, or too close to someone’s starter house that somehow became permanent.
 
-is not compatible with GPL-M.
+## 14. Compatibility With Server Administration
 
-The first rule prevents chaos.  
-The second rule prevents freedom.  
-Minecraft already has enough chaos.
+This License does not override legitimate server administration.
 
-## 12. Temporary Restrictions
+Admins may enforce rules about griefing, theft, lag, claims, safety, moderation, land use, and general player behavior.
 
-Temporary restrictions are allowed when reasonably necessary for:
+Admins may temporarily restrict access to protect a Project from damage, fix an emergency, prevent lag, stop griefing, or handle a raid caused by someone who “just wanted discounts.”
 
-- Repairs
-- Maintenance
-- Anti-griefing measures
-- Server performance
-- Safety
-- Raid prevention
-- Villager recovery
-- Redstone debugging
-- Emergency protection
-- Removing a chicken from somewhere no chicken should be
+However, administrative powers should not be used as a disguised method of removing GPL-M freedoms.
 
-Temporary restrictions should be limited to the actual issue and removed when they are no longer needed.
+Server rules may prevent chaos.  
+Server rules should not privatize community work.
 
-A temporary repair closure is allowed.
-
-A permanent restriction wearing a fake mustache labeled “maintenance” is not.
-
-## 13. Termination and Restoration
-
-If a User violates this License, their rights under it may be suspended with respect to the affected Covered Project.
-
-Violations may include:
-
-- Removing required attribution
-- Failing to provide Source Form when Conveying
-- Relicensing a Covered Project under incompatible terms
-- Preventing others from copying or modifying the Project
-- Adding an In-Game Toll to the Essential Function
-- Hiding essential source information
-- Claiming exclusive control over a Derivative Project
-- Using server rules as a disguised additional restriction
-
-Rights may be restored if the violation is corrected in good faith. Correction may include restoring attribution, providing Source Form, removing an incompatible restriction, repairing damage, or otherwise returning the Project to compliance with this License.
-
-Server communities are encouraged to resolve violations reasonably, with repair preferred over drama whenever possible.
-
-Cake is not required, but historically it has helped.
-
-## 14. No Warranty
+## 15. No Warranty
 
 The Project is provided **as is**, without warranty of any kind.
 
-The creators and contributors do not guarantee that:
+The creator and contributors do not guarantee that:
 
-- The Project works perfectly
-- The Project works efficiently
-- The Project will survive future Minecraft updates
-- Villagers will behave predictably
-- Redstone will behave predictably
-- Minecarts will remain emotionally stable
-- Hoppers will move items at the speed you hoped
-- The build is safe from mobs, players, or accidents
-- The documentation is complete
-- The storage system is perfectly organized
-- The Project is suitable for every server or play style
-- The button labeled “safe” is actually safe
+- The Project works
+- The Project works well
+- The Project works forever
+- The Project survives updates
+- The redstone makes sense
+- The villagers cooperate
+- The minecarts behave
+- The hoppers keep up
+- The mobs go where they should
+- The farm is efficient
+- The tutorial is clear
+- The build is pretty
+- The storage system is organized
+- The server does not lag
+- The user will read the signs
+- The project is safe from creepers, endermen, or poor decisions
 
-Use, modify, and rely on the Project at your own risk.
+Use at your own risk.
 
-## 15. Limitation of Liability
+## 16. Limitation of Liability
 
-Creators, contributors, maintainers, and Users are not responsible for losses or problems arising from use of the Project, including but not limited to:
+The creator, contributors, maintainers, users, villagers, iron golems, allays, bees, frogs, camels, sniffers, chickens, and any nearby unemployed nitwits are not responsible for:
 
 - Lost items
-- Lost experience
-- Broken redstone
-- Broken farms
-- Lost mobs
-- Server lag
-- Accidental damage
-- Mob-related incidents
-- Update-related breakage
-- Misuse of instructions
-- Ordinary Minecraft chaos
-- Extraordinary Minecraft chaos
-- The consequences of saying “I know what I’m doing” while holding lava
+- Lost XP
+- Lost patience
+- Broken blocks
+- Escaped villagers
+- Lava incidents
+- Water bucket incidents
+- Creeper incidents
+- Raid incidents
+- Minecart incidents
+- Boat incidents
+- Redstone incidents
+- Economic collapse
+- Base drama
+- Someone saying “I improved it” immediately before making it worse
 
-This section exists because Minecraft contains lava, creepers, and confidence.
+## 17. Termination
 
-## 16. Acceptance
+Your rights under GPL-M may be suspended by the server community if you intentionally violate this License.
 
-You accept this License by using, copying, modifying, migrating, improving, conveying, contributing to, or benefiting from a GPL-M Project.
+Violations include:
 
-If you do not accept this License, you should not use, copy, modify, migrate, improve, convey, or contribute to the Project.
+- Removing attribution
+- Hiding Source Form
+- Adding additional restrictions
+- Blocking essential use
+- Claiming exclusive ownership over a Covered Work
+- Preventing others from copying or modifying the Project
+- Turning a community project into a private controlled service
+- Sabotaging the Project
+- Destroying the Project
+- Using “maintenance” as an excuse to keep everyone else out forever
+- Violating the ancient principle of “do not be weird about shared infrastructure”
 
-You may still look at it respectfully from a safe distance.
+Rights may be restored through repair, apology, restoration of attribution, removal of restrictions, replacement of damaged resources, community agreement, or cake.
 
-Please do not look at it with flint and steel.
+## 18. Acceptance
 
-## 17. Final Principle
+By using, studying, copying, modifying, migrating, improving, sharing, contributing to, or benefiting from a GPL-M Project, you accept this License.
 
-The purpose of GPL-M is to keep shared Minecraft projects free for the communities that use and improve them.
+If you do not accept this License, you may admire the Project from a respectful distance.
 
-Use the Project.  
-Study the Project.  
-Copy the Project.  
-Modify the Project.  
-Migrate the Project.  
-Improve the Project.  
-Share the Project.  
+Please do not hold flint and steel while doing so.
 
-Pass on the same freedoms you received.
+## 19. Final Principle
 
-Keep community infrastructure open, documented, credited, and usable.
+GPL-M exists to protect Minecraft freedom.
 
-Do not turn shared work into a toll booth.
+You may use the Project.  
+You may study the Project.  
+You may copy the Project.  
+You may modify the Project.  
+You may migrate the Project.  
+You may improve the Project.  
+You may share the Project.  
 
-Long live free Minecraft infrastructure.
+But if you build from it, you must pass those freedoms on.
+
+Do not take a free project and make it less free.  
+Do not hide the source.  
+Do not erase the builders.  
+Do not privatize the useful part.  
+Do not sell community work back to the community.
+
+Share the blocks.  
+Credit the builders.  
+Preserve the freedom.
+
+This is the General Public License for Minecraft.
